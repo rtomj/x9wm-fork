@@ -1,4 +1,4 @@
-# x9wm - x window manager without windows
+# x9wm - x window manager 
 
 Please see w9wm online and in several repositories.
 x9wm is just like w9wm but is merged in a single file
@@ -22,6 +22,6 @@ Press middle mouse button for workspaces
 Right Click to manage windows
 
 # Todo:
-Replace gmrun wirh dmenu?
+Replace gmrun with dmenu?
 
 
